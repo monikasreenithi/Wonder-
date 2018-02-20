@@ -46,4 +46,4 @@ printf("\n the employee is eligible ");
 else
 printf("/n the employee is not eligible");
 return(0);
-}#
+}
